@@ -15,6 +15,7 @@ passwords = [
     '123456',
     '12345678',
     '123123123',
+    'Yash',
 ]
 
 for password in passwords:
